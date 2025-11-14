@@ -1,14 +1,12 @@
 # Personal Website - About Me
 
-A beautiful, responsive personal website to showcase your skills, projects, and personality. Easy to customize and deploy!
-
-![Website Preview](assets/preview.jpg)
+A beautiful, responsive personal website to showcase your skills, projects, and personality. Easy to customise and deploy!
 
 ## 🌟 Features
 
 - **Fully Responsive**: Works perfectly on desktop, tablet, and mobile devices
 - **Modern Design**: Clean, professional layout with smooth animations
-- **Easy to Customize**: Simple HTML/CSS/JavaScript structure
+- **Easy to Customise**: Simple HTML/CSS/JavaScript structure
 - **SEO Friendly**: Proper meta tags and semantic HTML
 - **Fast Loading**: Optimized performance with minimal dependencies
 - **Smooth Scrolling**: Enhanced user experience with scroll animations
